@@ -292,7 +292,7 @@ h3 {
   max-height: 1080px;
   padding-top: 1em;
   color: #ededed;
-  background: url(images\hero__bg.50087bca.jpg);
+  background: url(images/hero__bg.50087bca.jpg);
 }
 @media (min-width: 769px) {
   .hero {
@@ -386,7 +386,7 @@ h3 {
 .some-statistics {
   min-height: 457px;
   padding-bottom: 50px;
-  background: url(images\some-statistics__bg.dc92b9cc.jpg);
+  background: url(images/some-statistics__bg.dc92b9cc.jpg);
   background-size: cover;
   color: #ededed;
 }
